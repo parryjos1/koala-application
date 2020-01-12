@@ -6,3 +6,12 @@
 #edited-cover-page {
     max-height: 75vh;
 }
+
+.c-home-hero-slider-list__image {
+    height: 20vh;
+    max-width: 15vw;
+}
+
+#edited-web-image {
+    height: 54vh;
+}
